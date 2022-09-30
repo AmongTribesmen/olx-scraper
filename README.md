@@ -9,7 +9,7 @@ that's it, you did it!
 
 # usage
 simply execute the olxscrape.py script using `python olxscrape.py`.
-it will ask you to choose a location and a query.
+it will prompt you for a location and a query.
 
 # note
 be aware that a portion of OLX ad titles are not written in english. If you want to obtain results from that portion too, you will have to enter your query in the location's native language.
